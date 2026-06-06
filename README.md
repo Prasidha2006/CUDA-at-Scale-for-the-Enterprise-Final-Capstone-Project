@@ -1,6 +1,6 @@
 # GPU-Accelerated Image Processing Pipeline
 ## CUDA at Scale for the Enterprise — Final Capstone Project
-### Author: **PRASIDHA A**
+### Author: **LAKSHMIDHAR N**
 
 ---
 
